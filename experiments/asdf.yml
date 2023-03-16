@@ -9,8 +9,4 @@ conditions:
   - version:
       operator: semver-eq
       semver: '1'
-    value:
-      - percentage: 50
-        option: bb
-      - percentage: 50
-        option: qq
+    value: []
