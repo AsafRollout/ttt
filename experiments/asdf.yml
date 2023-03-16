@@ -5,4 +5,8 @@ flag: asdf
 availableValues:
   - bb
   - qq
-value: []
+value:
+  - percentage: 40
+    option: bb
+  - percentage: 60
+    option: qq
