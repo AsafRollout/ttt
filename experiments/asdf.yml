@@ -6,7 +6,7 @@ availableValues:
   - bb
   - qq
 value:
-  - percentage: 40
+  - percentage: 50
     option: bb
-  - percentage: 60
+  - percentage: 50
     option: qq
